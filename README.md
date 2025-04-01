@@ -11,9 +11,6 @@
 ### 🍄 Super Mario Clone  
 A faithful 2D clone of *Super Mario Bros*, built with Unity 6 and C#.  
 Includes custom logic, New Input System, and cheat codes (pause & restart).  
-🎥 [Watch Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-🕹️ [Play on Itch.io](https://adar.itch.io/super-mario-clone)  
-📂 [View Source](https://github.com/adar123/super-mario-clone)
 
 ---
 
@@ -27,5 +24,5 @@ Includes custom logic, New Input System, and cheat codes (pause & restart).
 ---
 
 ## 📫 Let's Connect!
-[LinkedIn](https://www.linkedin.com/in/yourname)  
-[GitHub](https://github.com/adar123)
+[LinkedIn](https://www.linkedin.com/in/adar-kadosh-110003221/)  
+[GitHub](https://github.com/adarkadosh)
