@@ -17,9 +17,6 @@ Includes custom logic, New Input System, and cheat codes (pause & restart).
 ## 💻 Tech I Use
 - Unity 6 / C#
 - Git & GitHub
-- Python, Java
-- HTML/CSS/JS
-- Photoshop & Illustrator (for game design)
 
 ---
 
