@@ -22,7 +22,6 @@ Includes custom logic, New Input System, and cheat codes (pause & restart).
 
 ## 📫 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/adar-kadosh-110003221/)  
-[GitHub](https://github.com/adarkadosh)
 [Itch.io](https://adar-kadosh.itch.io/)
 
 ![Pixel Tune - Final Project (v5)](https://github.com/user-attachments/assets/7a12186d-52a9-4b5c-9bd4-3769bb7f18fb)
