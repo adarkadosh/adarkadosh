@@ -2,7 +2,7 @@
 
 🎓 Computer Science student @ Hebrew University  
 🎮 Game dev minor @ Bezalel | Using Unity + C#  
-🧠 Passionate about creative problem solving and building cool things  
+🧠 Passionate about creative problem solving, merging code with design and building cool things  
 
 ---
 
@@ -10,13 +10,33 @@
 
 ### 🍄 Super Mario Clone  
 A faithful 2D clone of *Super Mario Bros*, built with Unity 6 and C#.  
-Includes custom logic, New Input System, and cheat codes (pause & restart).  
+Includes custom physics logic, New Input System, and cheat/debug features.  
+> 🎮 Role: Full gameplay programming
+
+---
+
+### 🛒 Shabbat Hayom  
+Fast-paced, action-puzzle game inspired by pre-Shabbat chaos in a Jerusalem supermarket.  
+Built in one week as part of Bezalel's Game Lab course.  
+> 🧩 Core mechanic: real-time item stacking + Tetris-style cart logic  
+> 🎮 Role: Lead gameplay developer, implemented board logic, player movement, and Git coordination  
+[▶️ Play on Itch.io](https://yarden-shemesh.itch.io/shabbat-hayom)
+
+---
+
+### 🐑 D’ezabin Abba  
+Idle merge-and-evolve game based on the Passover song *Chad Gadya*.  
+Survive attacks from the Angel of Death by evolving your creatures up the divine food chain.  
+> 🖱️ UI-driven creature control & upgrades  
+> 🎮 Role: UI implementation, game logic integration, sound hookup, Git management  
+[▶️ Play on Itch.io](https://yarden-shemesh.itch.io/trei-zuzei)
 
 ---
 
 ## 💻 Tech I Use
 - Unity 6 / C#
 - Git & GitHub
+- Event-driven architecture / ScriptableObjects
 
 ---
 
